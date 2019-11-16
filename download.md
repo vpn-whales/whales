@@ -2,7 +2,7 @@
 白鲸VPN使用完全免费，VIP节点可以通过积分兑换使用，只需要您签到和观看一些广告即可保证日常使用。
 ## 下载地址
 ### Android (v2.2.1)
-<a href="https://play.google.com/store/apps/details?id=com.joy.app.vpn" style="padding-left: 20px">
+- <a href="https://play.google.com/store/apps/details?id=com.joy.app.vpn" style="padding-left: 20px">
   <img alt="Android app on Google Play"
        src="./resources/en_app_rgb_wo_45.webp" />
 </a>
