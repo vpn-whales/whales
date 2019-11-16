@@ -4,7 +4,7 @@
 ### Android (v2.2.1)
 <a href="https://play.google.com/store/apps/details?id=com.joy.app.vpn" style="padding-left: 20px">
   <img alt="Android app on Google Play"
-       src="./resources/en_app_rgb_wo_45.png" />
+       src="./resources/en_app_rgb_wo_45.webp" />
 </a>
 
 - [本地下载-优化版][1]
